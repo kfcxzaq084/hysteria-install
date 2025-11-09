@@ -1,4 +1,4 @@
-# hysteria-install ⚡
+wget -N --no-check-certificate https://raw.# hysteria-install ⚡
 
 ### Hysteria is a powerful, lightning fast and censorship resistant proxy.
 
